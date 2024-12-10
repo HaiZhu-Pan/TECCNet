@@ -1,6 +1,6 @@
 # Transformer-enhanced two-stream complementary convolutional neural network for hyperspectral image classification
 
-[Haizhu Pan](), [Hui Yan](), [Jing Yao](), [Haimiao Ge](), [Moqi Liu](), [Cuiping Shi]()
+[Haizhu Pan](), [Hui Yan](), [Haimiao Ge](), [Moqi Liu](), [Cuiping Shi]()
 
 The code in this toolbox implements the ["Transformer-enhanced two-stream complementary convolutional neural network for hyperspectral image classification"](https://doi.org/10.1016/j.jfranklin.2024.106973).
 
