@@ -4,6 +4,8 @@
 
 The code in this toolbox implements the ["Transformer-enhanced two-stream complementary convolutional neural network for hyperspectral image classification"](https://doi.org/10.1016/j.jfranklin.2024.106973).
 
+![1-s2 0-S0016003224003946-gr7_lrg](https://github.com/user-attachments/assets/d5524412-c596-4977-b430-e96315a806a4)
+
 
 Citation
 ---------------------
